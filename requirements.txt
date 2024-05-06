@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python
 pip==24.0
 streamlit
 openCV
