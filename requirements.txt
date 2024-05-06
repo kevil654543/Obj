@@ -1,6 +1,6 @@
 opencv-python-headless
 pip==24.0
-cv2
+openCV
 Pillow
 numpy
 tensorflow
