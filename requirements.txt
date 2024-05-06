@@ -1,5 +1,4 @@
 opencv-python-headless
-streamlit
 pip==24.0
 Pillow
 numpy
