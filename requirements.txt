@@ -1,5 +1,4 @@
 opencv-python
-libgl1-mesa-glx
 pip==24.0
 streamlit
 Pillow
