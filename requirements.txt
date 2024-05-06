@@ -4,7 +4,7 @@ Pillow
 numpy
 tensorflow
 object-detection-0.1
-matplotlib==3.2
+matplotlib
 protobuf
 avro-python3
 apache-beam
