@@ -2,7 +2,7 @@ opencv-python-headless
 pip==24.0
 Pillow
 numpy
-tensorflow==2.9.0
+tensorflow
 object-detection-0.1
 matplotlib==3.2
 protobuf==3.20
