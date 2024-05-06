@@ -1,7 +1,6 @@
 opencv-python
 pip==24.0
 streamlit
-openCV
 Pillow
 numpy
 tensorflow
