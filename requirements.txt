@@ -1,5 +1,6 @@
 opencv-contrib-python-headless
 opencv-python-headless
+protoc
 opencv-python
 streamlit
 pip==24.0
