@@ -1,5 +1,4 @@
 opencv-contrib-python-headless
-ssd_mobilenet_v2_fpnlite_320x320
 opencv-python-headless
 opencv-python
 streamlit
@@ -7,7 +6,7 @@ pip==24.0
 Pillow
 numpy
 tensorflow==2.9.0
-object-detection-0.1
+object-detection
 matplotlib==3.2
 protobuf==3.20
 avro-python3
