@@ -9,9 +9,6 @@ from object_detection.utils import visualization_utils as viz_utils
 from object_detection.builders import model_builder
 from object_detection.utils import config_util
 
-# Set the path to the protoc binary
-os.environ['PATH'] += ':/Tensorflow/protoc'
-
 
 CUSTOM_MODEL_NAME = 'my_ssd_mobnet'
 paths = {
