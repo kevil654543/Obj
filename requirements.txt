@@ -1,4 +1,5 @@
 opencv-contrib-python-headless
+ssd_mobilenet_v2_fpnlite_320x320
 opencv-python-headless
 opencv-python
 streamlit
