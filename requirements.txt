@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python==4.9.0
 streamlit
 pip==24.0
 Pillow
